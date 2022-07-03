@@ -1,2 +1,2 @@
-# photolab
+# PhotoLab
 Photo Library
